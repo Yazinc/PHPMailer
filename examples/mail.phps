@@ -9,7 +9,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 
 require '../vendor/autoload.php';
 
-//Create a new PHPMailer instance
+//Create a new PHPMailer instance Yasir Ikram in testing.
 $mail = new PHPMailer();
 //Set who the message is to be sent from
 $mail->setFrom('from@example.com', 'First Last');
